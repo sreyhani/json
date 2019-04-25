@@ -9,6 +9,8 @@ project-19.iml
 .idea/**/dictionaries
 .idea/**/shelf
 project.iml
+json.iml
+*.iml
 # Sensitive or high-churn files
 .idea/**/dataSources/
 .idea/**/dataSources.ids
