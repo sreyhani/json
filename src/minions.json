@@ -1,0 +1,13 @@
+[
+  {
+    "ap": 4,
+    "hp": 6,
+    "type": "RANGED",
+    "buffs": [],
+    "attackRange": 7,
+    "cardId": 101,
+    "name": "camandareFarse",
+    "price": 300,
+    "mana": 2
+  }
+]
